@@ -1,0 +1,33 @@
+{
+	id: "403b8f86-deca-4755-b2ac-18a52d15767c"
+	type: "party"
+	owner: "6f54d0af-61b0-4ffe-8409-c80c5d462bd9"
+	ranks: {
+		db3c3f71-46d7-3a97-be63-7e2393dbd78c: "invited"
+		6f54d0af-61b0-4ffe-8409-c80c5d462bd9: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Caterpie's Party"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF59D3"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+		"ftbchunks:allow_explosions": 0b
+		"ftbchunks:allow_mob_griefing": 0b
+		"ftbchunks:allow_fake_players": 0b
+		"ftbchunks:allow_named_fake_players": [ ]
+		"ftbchunks:allow_fake_players_by_id": 1b
+		"ftbchunks:allow_pvp": 1b
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbchunks:entity_interact_mode": "allies"
+		"ftbchunks:nonliving_entity_attack_mode": "allies"
+		"ftbchunks:claim_visibility": "public"
+		"ftbchunks:location_mode": "allies"
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1730242128331L, text: "{\"translate\":\"ftbteams.message.joined\",\"with\":[\"Caterpie\"],\"color\":\"yellow\"}" }
+		{ from: "6f54d0af-61b0-4ffe-8409-c80c5d462bd9", date: 1730242128343L, text: "{\"translate\":\"ftbteams.message.invited\",\"with\":[{\"text\":\"Nowacki7\",\"color\":\"yellow\"}],\"color\":\"green\"}" }
+	]
+	extra: { }
+}
